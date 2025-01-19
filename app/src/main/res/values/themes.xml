@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Presensi" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/background</item>
+    </style>
+
+    <style name="Theme.Presensi" parent="Base.Theme.Presensi" />
+
+<!--    <style name="Theme.Presensi.Login" parent="Base.Theme.Presensi">-->
+<!--        <item name="android:colorBackground">-->
+<!--            @color/background-->
+<!--        </item>-->
+<!--    </style>-->
+</resources>

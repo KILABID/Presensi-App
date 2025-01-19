@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#537FE7</color>
+    <color name="text">#5D5D5D</color>
+    <color name="danger">#a6192e</color>
+    <color name="caution">#ff9900</color>
+    <color name="success">#04b34f</color>
+    <color name="information">#0057b8</color>
+    <color name="bg_editText">#E6E6E6</color>
+    <color name="textField">#676767</color>
+</resources>

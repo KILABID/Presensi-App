@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296357585921",
+    "project_id": "presensi-rpl2",
+    "storage_bucket": "presensi-rpl2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296357585921:android:006d206fd2f3e7ef870c00",
+        "android_client_info": {
+          "package_name": "com.murad.presensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALng5QpYqHI2IQrGCwDSz46kGqzkC4xA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
