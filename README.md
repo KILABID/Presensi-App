@@ -50,9 +50,6 @@ implementation("com.google.firebase:firebase-firestore-ktx:<latest_version>")
 
 If you want to contribute, please submit a pull request or report issues in the Issues section.
 
-### License
-
-This application uses the [MIT](LICENSE) license or as specified in the repository.
 
 ---
 
@@ -106,9 +103,6 @@ implementation("com.google.firebase:firebase-firestore-ktx:<latest_version>")
 
 Jika ingin berkontribusi, silakan buat pull request atau laporkan masalah melalui Issues.
 
-### Lisensi
-
-Aplikasi ini menggunakan lisensi [MIT](LICENSE) atau sesuai yang ditentukan dalam repository.
 
 ---
 
